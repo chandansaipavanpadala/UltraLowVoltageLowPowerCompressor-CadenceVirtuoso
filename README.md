@@ -49,7 +49,5 @@ Vol. 54, No. 5, pp. 412–416, May 2007.
 ---
 
 ## 👥 Contributors
-- **Chandan Sai Pavan P.** (BL.EN.U4ECE23205)  
-- **Chebrolu Rishita** (BL.EN.U4ECE23204)  
-- **D Rushikesh** (BL.EN.U4ECE23207)  
-- **K S V S Sobhita** (BL.EN.U4ECE23219)  
+- **Chandan Sai Pavan P.**
+- **D Rushikesh**
